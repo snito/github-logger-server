@@ -1,1 +1,1 @@
-# github-logger
+# github-logger-server
